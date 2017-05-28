@@ -22,7 +22,7 @@ h1 {
   margin: auto;
   text-align: center;
   font-weight: bolder;
-  font-size: 9em;
+  font-size: 7em;
   font-family: 'Teko', sans-serif;
   padding-top: 40px;
   padding-bottom: 30px;
@@ -147,4 +147,6 @@ section {
   text-align: center;
   color: #FF7F50;
   border-top: 1px solid #FF7F50;
+  position: relative;
+  margin-top: 20%;
 }
