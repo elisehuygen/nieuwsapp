@@ -143,3 +143,8 @@ section {
   margin: 0 0 0 15%;
 
 }
+.websitelink {
+  text-align: center;
+  color: #FF7F50;
+  border-top: 1px solid #FF7F50;
+}
